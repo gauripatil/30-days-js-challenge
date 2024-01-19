@@ -11,4 +11,27 @@ function getVideo() {
             video.src = window.URL.createObjectURL(localMediaStream);
             video.play();
         })
-} getVideo();
+} 
+getVideo();
+
+function paintToCanvas() {
+  const width = video.videoWidth;
+  const height = video.videoHeight;
+  canvas.width = width;
+  canvas.height = height;
+
+  return setInterval(() => {
+    ctx.drawImage(video, 0, 0, width, height);
+    // take the pixels out
+    let pixels = ctx.getImageData(0, 0, width, height);
+    // mess with them
+    // pixels = redEffect(pixels);
+
+    pixels = rgbSplit(pixels);
+    // ctx.globalAlpha = 0.8;
+
+    // pixels = greenScreen(pixels);
+    // put them back
+    ctx.putImageData(pixels, 0, 0);
+  }, 16);
+}
