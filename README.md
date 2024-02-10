@@ -1,8 +1,8 @@
 # 30 Days js challenge
 #### 1. <a href="https://github.com/gauripatil/30-days-js-challenge/tree/main/01%20-%20JavaScript%20Drum%20Kit">JavaScript Drum Kit</a>
 #### 2. <a href="https://github.com/gauripatil/30-days-js-challenge/tree/main/02%20-%20JS%20and%20CSS%20Clock">CSS + JS Clock</a>
-#### 3. Playing with CSS Variables and JS
-#### 4. Array Cardio Day 1
+#### 3. <a href="https://github.com/gauripatil/30-days-js-challenge/tree/main/03%20-%20CSS%20Variables">Playing with CSS Variables and JS</a>
+#### 4. <a href="https://github.com/gauripatil/30-days-js-challenge/tree/main/04%20-%20Array%20Cardio%20Day%201">Array Cardio Day 1</a>
 #### 5. Flex Panels Image Gallery
 #### 6. Type Ahead
 #### 7. Array Cardio Day 2
