@@ -1,5 +1,5 @@
 # 30 Days js challenge
-#### 1. JavaScript Drum Kit
+#### 1. <a href="https://github.com/gauripatil/30-days-js-challenge/tree/main/01%20-%20JavaScript%20Drum%20Kit">JavaScript Drum Kit</a>
 #### 2. CSS + JS Clock
 #### 3. Playing with CSS Variables and JS
 #### 4. Array Cardio Day 1
