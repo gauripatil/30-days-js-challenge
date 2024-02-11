@@ -3,7 +3,7 @@
 #### 2. <a href="https://github.com/gauripatil/30-days-js-challenge/tree/main/02%20-%20JS%20and%20CSS%20Clock">CSS + JS Clock</a>
 #### 3. <a href="https://github.com/gauripatil/30-days-js-challenge/tree/main/03%20-%20CSS%20Variables">Playing with CSS Variables and JS</a>
 #### 4. <a href="https://github.com/gauripatil/30-days-js-challenge/tree/main/04%20-%20Array%20Cardio%20Day%201">Array Cardio Day 1</a>
-#### 5. Flex Panels Image Gallery
+#### 5. <a href="https://github.com/gauripatil/30-days-js-challenge/tree/main/05%20-%20Flex%20Panel%20Gallery">Flex Panels Image Gallery</a>
 #### 6. Type Ahead
 #### 7. Array Cardio Day 2
 #### 8. Fun with HTML5 Canvas
