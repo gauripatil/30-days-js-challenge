@@ -4,29 +4,29 @@
 #### 3. <a href="https://github.com/gauripatil/30-days-js-challenge/tree/main/03%20-%20CSS%20Variables">Playing with CSS Variables and JS</a>
 #### 4. <a href="https://github.com/gauripatil/30-days-js-challenge/tree/main/04%20-%20Array%20Cardio%20Day%201">Array Cardio Day 1</a>
 #### 5. <a href="https://github.com/gauripatil/30-days-js-challenge/tree/main/05%20-%20Flex%20Panel%20Gallery">Flex Panels Image Gallery</a>
-#### 6. Type Ahead
-#### 7. Array Cardio Day 2
-#### 8. Fun with HTML5 Canvas
-#### 9. Dev Tools Domination
-#### 10. Hold Shift and Check Checkboxes
-#### 11. Custom Video Player
-#### 12. Key Sequence Detection
-#### 13. Slide in on Scroll
-#### 14. JavaScript References VS Copying
-#### 15. LocalStorage
-#### 16. Mouse Move Shadow
-#### 17. Sort Without Articles
-#### 18. Adding Up Times with Reduce
-#### 19. Webcam Fun
-#### 20. Speech Detection
-#### 21. Geolocation
-#### 22. Follow Along Link Highlighter
-#### 23. Speech Synthesis
-#### 24. Sticky Nav
-#### 25. Event Capture, Propagation, Bubbling and Once
-#### 26. Stripe Follow Along Nav
-#### 27. Click and Drag
-#### 28. Video Speed Controller
-#### 29. Countdown Timer
-#### 30. Whack A Mole
+#### 6. <a href="https://github.com/gauripatil/30-days-js-challenge/tree/main/06%20-%20Type%20Ahead">Type Ahead</a>
+#### 7. <a href="https://github.com/gauripatil/30-days-js-challenge/tree/main/07%20-%20Array%20Cardio%20Day%202">Array Cardio Day 2</a>
+#### 8. <a href="https://github.com/gauripatil/30-days-js-challenge/tree/main/08%20-%20Fun%20with%20HTML5%20Canvas">Fun with HTML5 Canvas</a>
+#### 9. <a href="https://github.com/gauripatil/30-days-js-challenge/tree/main/09%20-%20Dev%20Tools%20Domination">Dev Tools Domination</a>
+#### 10. <a href="https://github.com/gauripatil/30-days-js-challenge/tree/main/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes">Hold Shift and Check Checkboxes</a>
+#### 11. <a href="https://github.com/gauripatil/30-days-js-challenge/tree/main/11%20-%20Custom%20Video%20Player">Custom Video Player</a>
+#### 12. <a href="https://github.com/gauripatil/30-days-js-challenge/tree/main/12%20-%20Key%20Sequence%20Detection">Key Sequence Detection</a>
+#### 13. <a href="https://github.com/gauripatil/30-days-js-challenge/tree/main/13%20-%20Slide%20in%20on%20Scroll">Slide in on Scroll</a>
+#### 14. <a href="https://github.com/gauripatil/30-days-js-challenge/tree/main/14%20-%20JavaScript%20References%20VS%20Copying">JavaScript References VS Copying</a>
+#### 15. <a href="https://github.com/gauripatil/30-days-js-challenge/tree/main/15%20-%20LocalStorage">LocalStorage</a>
+#### 16. <a href="https://github.com/gauripatil/30-days-js-challenge/tree/main/16%20-%20Mouse%20Move%20Shadow">Mouse Move Shadow</a>
+#### 17. <a href="https://github.com/gauripatil/30-days-js-challenge/tree/main/17%20-%20Sort%20Without%20Articles">Sort Without Articles</a>
+#### 18. <a href="https://github.com/gauripatil/30-days-js-challenge/tree/main/18%20-%20Adding%20Up%20Times%20with%20Reduce">Adding Up Times with Reduce</a>
+#### 19. <a href="https://github.com/gauripatil/30-days-js-challenge/tree/main/19%20-%20Webcam%20Fun">Webcam Fun</a>
+#### 20. <a href="https://github.com/gauripatil/30-days-js-challenge/tree/main/20%20-%20Speech%20Detection">Speech Detection</a>
+#### 21. <a href="https://github.com/gauripatil/30-days-js-challenge/tree/main/21%20-%20Geolocation">Geolocation</a>
+#### 22. <a href="https://github.com/gauripatil/30-days-js-challenge/tree/main/22%20-%20Follow%20Along%20Link%20Highlighter">Follow Along Link Highlighter</a>
+#### 23. <a href="https://github.com/gauripatil/30-days-js-challenge/tree/main/23%20-%20Speech%20Synthesis">Speech Synthesis</a>
+#### 24. <a href="https://github.com/gauripatil/30-days-js-challenge/tree/main/24%20-%20Sticky%20Nav">Sticky Nav</a>
+#### 25. <a href="https://github.com/gauripatil/30-days-js-challenge/tree/main/25%20-%20Event%20Capture%2C%20Propagation%2C%20Bubbling%20and%20Once">Event Capture, Propagation, Bubbling and Once</a>
+#### 26. <a href="https://github.com/gauripatil/30-days-js-challenge/tree/main/26%20-%20Stripe%20Follow%20Along%20Nav">Stripe Follow Along Nav</a>
+#### 27. <a href="https://github.com/gauripatil/30-days-js-challenge/tree/main/27%20-%20Click%20and%20Drag">Click and Drag</a>
+#### 28. <a href="https://github.com/gauripatil/30-days-js-challenge/tree/main/28%20-%20Video%20Speed%20Controller">Video Speed Controller</a>
+#### 29. <a href="https://github.com/gauripatil/30-days-js-challenge/tree/main/29%20-%20Countdown%20Timer">Countdown Timer</a>
+#### 30. <a href="https://github.com/gauripatil/30-days-js-challenge/tree/main/30%20-%20Whack%20A%20Mole">Whack A Mole</a>
 
